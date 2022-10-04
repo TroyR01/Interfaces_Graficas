@@ -1,0 +1,8 @@
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\bin\Debug\Bees_Bears.exe.config
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\bin\Debug\Bees_Bears.exe
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\bin\Debug\Bees_Bears.pdb
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\obj\Debug\Bees_Bears.csproj.AssemblyReference.cache
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\obj\Debug\Bees_Bears.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\obj\Debug\Bees_Bears.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\obj\Debug\Bees_Bears.exe
+C:\Users\ANDRES\Desktop\Interfaces Graficas\Bees_Bears\Bees_Bears\obj\Debug\Bees_Bears.pdb
